@@ -1,1 +1,2 @@
-# hello-world-040
+# Hello World Project
+Ini adalah proyek pertama saya menggunakan Git.
